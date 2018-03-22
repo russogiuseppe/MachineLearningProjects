@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="FONT_SCALE" value="2.0833333" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="36" />
   </component>
 </application>
