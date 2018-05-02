@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tfrecord" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="h5" type="PLAIN_TEXT" />
       <mapping pattern="gradientExtraction" type="Python" />
     </extensionMap>
   </component>
